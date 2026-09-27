@@ -1,0 +1,6 @@
+deploy/.env
+server/data/
+server/internal/panelapi/dist/*
+# robots.txt из panel/public — чтобы go:embed собирался до первой сборки панели
+!server/internal/panelapi/dist/robots.txt
+deploy/backups/

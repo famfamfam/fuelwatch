@@ -1,0 +1,9 @@
+.git
+docs
+android
+AGENTS.md
+**/node_modules
+server/internal/panelapi/dist/assets
+server/internal/panelapi/dist/index.html
+server/data
+deploy/.env

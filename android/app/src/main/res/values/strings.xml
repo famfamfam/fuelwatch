@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FuelWatch</string>
+    <string name="channel_monitor">Мониторинг</string>
+    <string name="notif_monitor">Камера работает</string>
+</resources>
